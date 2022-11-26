@@ -1,7 +1,7 @@
 # EXP-04-Interfacing a 16X2 type LCD display to LPC2148 ARM 7Microcontroller
 ~~~
-Name : Ragul AC
-Reg no : 212221240042
+Name : Ritika S
+Reg no : 212221240046
 Date of experiment : 16/10/2022
 ~~~
 ## Interfacing a 16X2 type LCD display to LPC2148 ARM 7 Microcontroller 
