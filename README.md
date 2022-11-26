@@ -195,10 +195,10 @@ int main(void)
 ```
 
 ## Proteus simulation 
-LCD OFF!:
+### LCD OFF!:
 ![PM1](https://user-images.githubusercontent.com/93427238/204095199-2f857770-81ea-4a23-97dc-8f309bff8214.jpeg)
 
-LCD ON!:
+### LCD ON!:
 ![PM2](https://user-images.githubusercontent.com/93427238/204095220-be81ad0e-2a11-465a-a2b5-c9fbaa8fd386.jpeg)
 
 
